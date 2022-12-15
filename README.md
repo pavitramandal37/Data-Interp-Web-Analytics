@@ -1,4 +1,4 @@
-# Data-Interp-Web-Analytics
+# Data-Interpretation-Web-Analytics-Nourish.ie
 
 In this project going to create Google Looker Studio dashboards for the 
 live company Nourish or a company of your choice that you have Google 
