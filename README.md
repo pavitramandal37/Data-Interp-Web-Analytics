@@ -1,9 +1,8 @@
 # Data-Interpretation-Web-Analytics-Nourish.ie
 
 In this project going to create Google Looker Studio dashboards for the 
-live company Nourish or a company of your choice that you have Google 
-Analytics access to and deliver a report. This should 
-include a thorough review of available reports/data with the inclusion of 
+live company Nourish having Google Analytics access to and deliver a report. 
+This should include a thorough review of available reports/data with the inclusion of 
 dummy date where required. There is no presentation requirement.
 
 The report should include the following detail:
